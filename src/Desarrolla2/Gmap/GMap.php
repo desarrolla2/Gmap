@@ -11,6 +11,7 @@
  */
 
 namespace Desarrolla2\GMap;
+
 use Desarrolla2\GMap\Point;
 
 class GMap
@@ -44,5 +45,3 @@ class GMap
     }
 
 }
-
-var_dump(GMap::getPointByCp(28945));
