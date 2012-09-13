@@ -1,7 +1,7 @@
 {
     "name": "desarrolla2/gmap",
     "description": "Provides an google map adapter",
-    "keywords": ["google","map",],
+    "keywords": ["google","map"],
     "type": "library",
     "license": "MIT",
     "authors": [
